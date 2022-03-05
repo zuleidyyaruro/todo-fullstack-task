@@ -1,6 +1,6 @@
 Instrucciones
 
-1. Vaya a la carpeta api y cree un archivo .env con las variables de entorno siguientes: 
+1. Vaya a la carpeta api y cree un archivo llamado exactamente .env con las variables de entorno siguientes: 
 
     PORT=4000
     DB_DATABASE=todo
